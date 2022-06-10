@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/bin/Debug/net5.0/CarClass.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/bin/Debug/net5.0/CarClass.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/bin/Debug/net5.0/CarClass.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/bin/Debug/net5.0/CarClass.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/bin/Debug/net5.0/ref/CarClass.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/bin/Debug/net5.0/CarClass.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/ref/CarClass.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/CarClass/obj/Debug/net5.0/CarClass.genruntimeconfig.cache
